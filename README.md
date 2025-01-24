@@ -1,1 +1,2 @@
-# pnso-Kaskosz-Konrad-git
+# pnso-Kaskosz-Konrad-git  
+noowe zmiany w pliku
